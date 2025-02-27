@@ -12,6 +12,11 @@ InstallModes:
 - interactive
 - silent
 UpgradeBehavior: install
+Commands:
+- vim
+- gvim
+- xxd
+- tee
 ProductCode: Vim 9.1
 ReleaseDate: 2025-02-23
 ElevationRequirement: elevatesSelf
